@@ -1,5 +1,5 @@
 Run Mood News Webpage:
-https://alphahades.github.io/moodnews.github.io/s
+https://alphahades.github.io/moodnews.github.io/
 
 Material Design for Bootstrap
 
